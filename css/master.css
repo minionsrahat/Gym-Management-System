@@ -1,0 +1,104 @@
+.upper-navbar h3 {
+    margin-right: auto;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.upper-navbar {
+    background-image: linear-gradient(#4d90db, #51a7dd);
+    color: white;
+}
+
+.upper-navbar .navbar-toggler {
+    color: white !important;
+    border: none !important;
+}
+
+.upper-navbar .navbar-toggler-icon {
+    color: white !important;
+}
+.upper-navbar .upper-nav-item .nav-link{
+    color: white!important;
+}
+.upper-navbar  .input-group {
+    width: 500px !important;
+    margin-right: auto;
+    margin-left: -350px;
+}
+
+.upper-navbar .form-control {
+    border-radius: 50px 0 0 50px !important;
+}
+.profile-icon img{
+    width: 50px!important;
+    border-radius: 40%;
+    margin-right: 5px;
+}
+.search-icon {
+    border-radius: 0 50px 50px 0 !important;
+ 
+}
+
+.curve-btn {
+    border-radius: 50px 50px 50px 50px !important;
+}
+
+.log-in-btn {
+    background-color: #222222 !important;
+}
+
+.reg-btn {
+    background-color: #da1f1f !important;
+}
+
+.fa {
+    font-size: 24px !important;
+    color: white !important;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px !important;
+    border-radius: 10px !important;
+}
+
+.footer {
+    background-image: linear-gradient(#4d90db, #51a7dd);
+
+}
+
+.footer h4,
+p {
+    color: white;
+
+}
+
+.footer p {
+    margin: 2px 0px;
+}
+.navbar-brand img {
+    width: 55px !important;
+
+}
+
+.navbar-brand .title {
+    color: black !important;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.lower-navbar .navbar-nav .nav-item .nav-link {
+    color: black !important;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.lower-navbar {
+    -webkit-box-shadow: 0 5px 5px #888888;
+    -moz-box-shadow: 0 5px 5px #888888;
+    box-shadow: 0 4px 5px #888888;
+}
+.cart {
+    color: #fff;
+    background-color: #dc3545;
+    margin-left: -11px!important;
+}
